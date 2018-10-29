@@ -9,7 +9,8 @@ wget -O - "https://raw.githubusercontent.com/swiatecki/DevNetKeyboard/master/nic
 
 Tested on:
 
-* OSX with MS RDP app
+* OSX with MS RDP app - mid 2015, DK layout
+* Win7 with MS RDP app, Lenovo X1 carbon, DK layout
 
 This one is a dirty hack, and it knows it:
 
